@@ -1,0 +1,17 @@
+style {
+  position: relative;
+  background: radial-gradient(70.48% 113.47% at -13.27% 72.72%, #1461F6 0%, #011537 54.66%);;
+  width: 1366px;
+  height: 777px;
+}
+:root {/* Colores */
+        --azul-principal: #144DF6;
+        --disabled-color: #9898A0;
+        --secondary-blue: #1a9af7;
+        --soft-blue: #e7f5ff;
+        --warm-black: #282623;
+        --black: #201e1c; --grey: #bababa;
+        --off-white: #faf8f7;
+        --just-white: #fff;
+    }
+

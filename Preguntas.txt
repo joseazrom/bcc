@@ -1,0 +1,2 @@
+- Funcionalidad del desplegable en los botones de iniciar sesion y registrarse
+- El navbar queda fijo? El logo tiene funcionalidad?
